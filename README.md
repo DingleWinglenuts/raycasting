@@ -1,1 +1,1 @@
-# raycasting
+This project is development of a simple 3d game using raycasting, a 3d rendering method used most notably in games like the original Wolfenstein. Raycasting was made pretty mucy obsolete by the later use of binary space partitioning, which i plan to learn later. The game will end up being a simple survival game where players survive hordes of enemies, which get progressively harder and more plentiful, similar to the original Call of Duty Zombies mode introduced in Call of Duty: World at War.
